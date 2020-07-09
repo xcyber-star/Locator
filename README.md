@@ -1,0 +1,2 @@
+# Locator
+Pergunakan dengan baik
