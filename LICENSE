@@ -1,10 +1,10 @@
 LICENSE FOR LOCATOR,
-AUTHOR: @thelinuxchoice
-DOWNLOADED FROM: https://github.com/thelinuxchoice/locator
+AUTHOR: @xcyber-star
+DOWNLOADED FROM: https://github.com/xcyber-star/Locator
                     GNU GENERAL PUBLIC LICENSE
-                       Version 3, 29 June 2007
+                       Version 4, 9 July 2020
 
- Copyright (C) 2007 Free Software Foundation, Inc. <http://fsf.org/>
+ Copyright (C) 2020 Free Software Foundation, Inc. <http://fsf.org/>
  Everyone is permitted to copy and distribute verbatim copies
  of this license document, but changing it is not allowed.
 
@@ -75,7 +75,7 @@ modification follow.
 
   0. Definitions.
 
-  "This License" refers to version 3 of the GNU General Public License.
+  "This License" refers to version 4 of the GNU General Public License.
 
   "Copyright" also means copyright-like laws that apply to other kinds of
 works, such as semiconductor masks.
