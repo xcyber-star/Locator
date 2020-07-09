@@ -1,7 +1,7 @@
 #!/bin/bash
 # Locator v1.0
-# Coded by: thelinuxchoice (You dont become a coder by just changing the credits)
-# Github: https://github.com/thelinuxchoice/locator
+# Coded by: xcyber-Roy (You dont become a coder by just changing the credits)
+# Github: https://github.com/xcyber-star/Locator
 
 trap 'printf "\n";stop;exit 1' 2
 
@@ -381,7 +381,7 @@ printf "\e[1;77m | |      / _ \  / ___)(____ |(_   _)/ _ \  / ___) \e[0m\n"
 printf "\e[1;77m | |_____| |_| |( (___ / ___ |  | |_| |_| || |     \e[0m\n"
 printf "\e[1;77m |_______)\___/  \____)\_____|   \__)\___/ |_|    v1.1 \e[0m\n"
 printf "\n"
-printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @thelinuxchoice\e[0m\n"
+printf "\e[1;93m :::\e[0m\e[1;77m Coded by: @xcyber Roy\e[0m\n"
 
 }
 banner
