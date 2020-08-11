@@ -1,6 +1,6 @@
 # Locator v1.0
 ## Author: github.com/xcyber-star
-## IG: instagram.com/ _develop_roy_
+## IG: instagram.com/_develop_roy_
 ### Don't copy this code without give me the credits, nerd! 
 
 Geolocator, Ip Tracker, Device Info by URL (Serveo and Ngrok).
